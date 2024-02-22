@@ -57,7 +57,7 @@ def create_new_window():
             image_display.image = img_tk
             image_display.pack()
         except Exception as e:
-            messagebox.showerror("Errore", f"Impossibile visualizzare l'immagine selezionata: {str(e)}")
+            messagebox.showerror("Errore", f"Non si vede l'immagine: {str(e)}")
 
     # Bottone per tornare alla finestra principale
     back_button = tk.Button(new_window, text="Torna alla Finestra Principale", command=lambda: [new_window.destroy(), root.deiconify()])
