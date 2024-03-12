@@ -4,7 +4,7 @@
 
 - [x] Implementare la verifica della calibrazione dopo camera matrix, vedi codice dei soci
 - [x] Implementare la verifica della calibrazione della lama di luce, vedi codice dei soci
-- [?] Dopo aver implementato le verifiche cercare di capire come ottenere la z del piano di misura giusta. Dovrebbero essere negative, chiedi a Tommy se hai dubbi sul valore corretto che dovrebbe uscire.
+- [ ] Dopo aver implementato le verifiche cercare di capire come ottenere la z del piano di misura giusta. Dovrebbero essere negative, chiedi a Tommy se hai dubbi sul valore corretto che dovrebbe uscire.
 - [x] Calcolare la sensibilità e la portata del setup di misura
 - [x] Chiedere a qualcuno che ha già fatto l'esame il suo codice. Lo puoi scaricare da [qui](https://unibsit-my.sharepoint.com/:u:/g/personal/t_bianchin_studenti_unibs_it/Ee107TqO2p9IgtNDFHMk19sBBrxeUOKXesq7LY9ri_8UPw?e=3nAqbb)
 
